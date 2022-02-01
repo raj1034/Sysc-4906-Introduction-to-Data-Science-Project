@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Web scrapping of various cryptocurrencies and NFTs will be performed and from the datasets obtained from this analysis, we wilsimilarity metrics.',
+    description='Web scraping of various cryptocurrencies and NFTs will be performed and from the datasets obtained through this process, we will perform an analysis based on similarity metrics.',
     author='CryptoHotshots',
     license='MIT',
 )
