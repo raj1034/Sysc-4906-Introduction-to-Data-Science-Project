@@ -1,4 +1,4 @@
-Sysc4906-cryptocurrency-web-scraping-analysis
+Sysc-4906-Introduction-to-Data-Science-Project
 ==============================
 
 Web scrapping of various cryptocurrencies and NFTs will be performed and from the datasets obtained from this process, we will perform an analysis based on similarity metrics.
