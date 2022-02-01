@@ -1,7 +1,7 @@
 Sysc4906-cryptocurrency-web-scraping-analysis
 ==============================
 
-Web scrapping of various cryptocurrencies and NFTs will be performed and from the datasets obtained from this analysis, we wilsimilarity metrics.
+Web scrapping of various cryptocurrencies and NFTs will be performed and from the datasets obtained from this process, we will perform an analysis based on similarity metrics.
 
 Project Organization
 ------------
