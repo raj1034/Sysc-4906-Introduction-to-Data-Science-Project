@@ -1,0 +1,334 @@
+2022-03-01 02:51:06,696 | cryptocurrency_data_ingestion | INFO | Notebook has begun...
+2022-03-01 02:51:06,696 | cryptocurrency_data_ingestion | INFO | Aquiring configurable dates.
+2022-03-01 02:51:06,721 | cryptocurrency_data_ingestion | INFO | Creating destination paths.
+2022-03-01 02:51:06,767 | cryptocurrency_data_ingestion | INFO | Retreiving coin names.
+2022-03-01 02:57:49,036 | cryptocurrency_data_ingestion | INFO | Retreived all coin names and slugs.
+2022-03-01 02:57:54,668 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin
+2022-03-01 02:57:54,668 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin
+2022-03-01 02:57:58,337 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin-nft
+2022-03-01 02:57:58,337 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin-nft
+2022-03-01 02:58:01,879 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin-defi
+2022-03-01 02:58:01,879 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin-defi
+2022-03-01 02:58:05,432 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: atlantis-coin
+2022-03-01 02:58:05,432 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: atlantis-coin
+2022-03-01 02:58:08,995 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ethereum
+2022-03-01 02:58:08,995 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ethereum
+2022-03-01 02:58:12,532 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: compumar
+2022-03-01 02:58:12,532 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: compumar
+2022-03-01 02:58:16,242 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: tether
+2022-03-01 02:58:16,242 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: tether
+2022-03-01 02:58:19,790 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: binance-coin
+2022-03-01 02:58:19,790 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: binance-coin
+2022-03-01 02:58:23,478 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: yaapoo
+2022-03-01 02:58:23,478 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: yaapoo
+2022-03-01 02:58:27,026 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: usd-coin
+2022-03-01 02:58:27,026 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: usd-coin
+2022-03-01 02:58:30,569 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: wrapped-luna-token
+2022-03-01 02:58:30,569 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: wrapped-luna-token
+2022-03-01 02:58:33,825 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: xrp. Finding new coin.
+2022-03-01 02:58:34,106 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: terra. Finding new coin.
+2022-03-01 02:58:34,668 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: solana
+2022-03-01 02:58:34,668 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: solana
+2022-03-01 02:58:38,226 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: cardano
+2022-03-01 02:58:38,226 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: cardano
+2022-03-01 02:58:41,904 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: hex
+2022-03-01 02:58:41,904 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: hex
+2022-03-01 02:58:45,460 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: avalanche
+2022-03-01 02:58:45,460 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: avalanche
+2022-03-01 02:58:48,993 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: binance-usd
+2022-03-01 02:58:48,993 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: binance-usd
+2022-03-01 02:58:52,703 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: dogecoin
+2022-03-01 02:58:52,703 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: dogecoin
+2022-03-01 02:58:55,944 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: polkadot. Finding new coin.
+2022-03-01 02:58:56,522 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: shiba-inu
+2022-03-01 02:58:56,522 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: shiba-inu
+2022-03-01 02:58:59,768 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: terrausd. Finding new coin.
+2022-03-01 02:59:00,340 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: wrapped-bitcoin
+2022-03-01 02:59:00,340 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: wrapped-bitcoin
+2022-03-01 02:59:03,894 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: cronos
+2022-03-01 02:59:03,894 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: cronos
+2022-03-01 02:59:07,227 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: formosa-financial. Finding new coin.
+2022-03-01 02:59:07,633 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: multi-collateral-dai. Finding new coin.
+2022-03-01 02:59:08,258 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: cosmos
+2022-03-01 02:59:08,258 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: cosmos
+2022-03-01 02:59:11,812 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: polygon
+2022-03-01 02:59:11,812 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: polygon
+2022-03-01 02:59:15,381 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: litecoin
+2022-03-01 02:59:15,381 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: litecoin
+2022-03-01 02:59:19,043 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: uniswap
+2022-03-01 02:59:19,043 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: uniswap
+2022-03-01 02:59:22,672 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: chainlink
+2022-03-01 02:59:22,672 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: chainlink
+2022-03-01 02:59:26,415 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ftx-token
+2022-03-01 02:59:26,415 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ftx-token
+2022-03-01 02:59:29,977 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: near-protocol
+2022-03-01 02:59:29,977 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: near-protocol
+2022-03-01 02:59:33,521 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin-cash
+2022-03-01 02:59:33,521 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin-cash
+2022-03-01 02:59:37,073 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: unus-sed-leo
+2022-03-01 02:59:37,073 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: unus-sed-leo
+2022-03-01 02:59:40,630 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: algorand
+2022-03-01 02:59:40,630 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: algorand
+2022-03-01 02:59:44,168 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: decentraland
+2022-03-01 02:59:44,168 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: decentraland
+2022-03-01 02:59:47,723 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: okb
+2022-03-01 02:59:47,723 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: okb
+2022-03-01 02:59:51,261 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: stellar
+2022-03-01 02:59:51,261 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: stellar
+2022-03-01 02:59:54,835 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: fantom
+2022-03-01 02:59:54,835 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: fantom
+2022-03-01 02:59:58,593 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: magic-internet-money
+2022-03-01 02:59:58,593 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: magic-internet-money
+2022-03-01 03:00:02,200 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: internet-computer
+2022-03-01 03:00:02,200 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: internet-computer
+2022-03-01 03:00:05,887 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: tron
+2022-03-01 03:00:05,887 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: tron
+2022-03-01 03:00:09,535 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ethereum-classic
+2022-03-01 03:00:09,535 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ethereum-classic
+2022-03-01 03:00:13,211 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: filecoin
+2022-03-01 03:00:13,211 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: filecoin
+2022-03-01 03:00:16,811 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: the-sandbox
+2022-03-01 03:00:16,811 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: the-sandbox
+2022-03-01 03:00:23,925 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: vechain. Finding new coin.
+2022-03-01 03:00:26,057 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: hedera-hashgraph
+2022-03-01 03:00:26,057 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: hedera-hashgraph
+2022-03-01 03:00:29,654 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: elrond
+2022-03-01 03:00:29,654 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: elrond
+2022-03-01 03:00:33,201 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: axie-infinity
+2022-03-01 03:00:33,201 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: axie-infinity
+2022-03-01 03:00:37,048 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: klaytn
+2022-03-01 03:00:37,048 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: klaytn
+2022-03-01 03:00:40,710 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: compound-ether
+2022-03-01 03:00:40,710 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: compound-ether
+2022-03-01 03:00:44,392 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: monero
+2022-03-01 03:00:44,392 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: monero
+2022-03-01 03:00:47,993 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: tezos
+2022-03-01 03:00:47,993 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: tezos
+2022-03-01 03:00:51,890 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: frax
+2022-03-01 03:00:51,890 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: frax
+2022-03-01 03:00:55,298 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: theta-token. Finding new coin.
+2022-03-01 03:00:55,860 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: helium
+2022-03-01 03:00:55,860 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: helium
+2022-03-01 03:00:59,408 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: compound-usd-coin
+2022-03-01 03:00:59,408 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: compound-usd-coin
+2022-03-01 03:01:02,955 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitlux-otc
+2022-03-01 03:01:02,955 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitlux-otc
+2022-03-01 03:01:06,493 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: eos
+2022-03-01 03:01:06,509 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: eos
+2022-03-01 03:01:10,200 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: iota
+2022-03-01 03:01:10,200 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: iota
+2022-03-01 03:01:13,908 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: flow
+2022-03-01 03:01:13,908 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: flow
+2022-03-01 03:01:17,543 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: perspective-coin
+2022-03-01 03:01:17,543 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: perspective-coin
+2022-03-01 03:01:21,206 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: lido-staked-ether
+2022-03-01 03:01:21,206 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: lido-staked-ether
+2022-03-01 03:01:24,796 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: compound-dai
+2022-03-01 03:01:24,796 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: compound-dai
+2022-03-01 03:01:28,428 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: aave
+2022-03-01 03:01:28,444 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: aave
+2022-03-01 03:01:32,173 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: pancakeswap
+2022-03-01 03:01:32,173 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: pancakeswap
+2022-03-01 03:01:35,992 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: maker
+2022-03-01 03:01:35,992 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: maker
+2022-03-01 03:01:39,322 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: harmony. Finding new coin.
+2022-03-01 03:01:39,948 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: gala
+2022-03-01 03:01:39,948 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: gala
+2022-03-01 03:01:43,620 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bittorrent
+2022-03-01 03:01:43,620 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bittorrent
+2022-03-01 03:01:47,185 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: waves
+2022-03-01 03:01:47,185 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: waves
+2022-03-01 03:01:50,722 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: threshold-network-token
+2022-03-01 03:01:50,722 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: threshold-network-token
+2022-03-01 03:01:54,291 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: the-graph
+2022-03-01 03:01:54,291 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: the-graph
+2022-03-01 03:01:57,980 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: huobi-btc
+2022-03-01 03:01:57,980 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: huobi-btc
+2022-03-01 03:02:01,518 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: neo
+2022-03-01 03:02:01,518 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: neo
+2022-03-01 03:02:05,075 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin-sv
+2022-03-01 03:02:05,075 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin-sv
+2022-03-01 03:02:08,332 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: kucoin-token. Finding new coin.
+2022-03-01 03:02:08,894 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: egw-academy
+2022-03-01 03:02:08,894 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: egw-academy
+2022-03-01 03:02:12,451 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: zcash
+2022-03-01 03:02:12,451 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: zcash
+2022-03-01 03:02:16,129 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: stacks
+2022-03-01 03:02:16,129 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: stacks
+2022-03-01 03:02:19,792 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: mercury-protocol
+2022-03-01 03:02:19,792 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: mercury-protocol
+2022-03-01 03:02:23,077 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: tigercoin. Finding new coin.
+2022-03-01 03:02:23,781 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: the-bee-token
+2022-03-01 03:02:23,781 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: the-bee-token
+2022-03-01 03:02:27,037 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: trueusd. Finding new coin.
+2022-03-01 03:02:27,739 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ecash
+2022-03-01 03:02:27,739 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ecash
+2022-03-01 03:02:31,292 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: huobi-token
+2022-03-01 03:02:31,292 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: huobi-token
+2022-03-01 03:02:34,835 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: thorchain
+2022-03-01 03:02:34,835 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: thorchain
+2022-03-01 03:02:38,367 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: egw-capital
+2022-03-01 03:02:38,367 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: egw-capital
+2022-03-01 03:02:41,639 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: quant. Finding new coin.
+2022-03-01 03:02:42,202 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: osmosis
+2022-03-01 03:02:42,202 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: osmosis
+2022-03-01 03:02:45,550 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: celsius-network. Finding new coin.
+2022-03-01 03:02:46,175 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: enjin-coin
+2022-03-01 03:02:46,175 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: enjin-coin
+2022-03-01 03:02:49,697 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: crowdholding
+2022-03-01 03:02:49,697 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: crowdholding
+2022-03-01 03:02:53,249 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: chainbing
+2022-03-01 03:02:53,249 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: chainbing
+2022-03-01 03:02:56,975 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: kadena
+2022-03-01 03:02:56,975 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: kadena
+2022-03-01 03:03:00,647 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: nexo
+2022-03-01 03:03:00,647 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: nexo
+2022-03-01 03:03:04,341 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: chiliz
+2022-03-01 03:03:04,341 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: chiliz
+2022-03-01 03:03:07,881 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: youcash
+2022-03-01 03:03:07,881 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: youcash
+2022-03-01 03:03:11,435 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: celo
+2022-03-01 03:03:11,435 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: celo
+2022-03-01 03:03:15,004 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: curve-dao-token
+2022-03-01 03:03:15,004 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: curve-dao-token
+2022-03-01 03:03:18,661 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: kusama
+2022-03-01 03:03:18,661 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: kusama
+2022-03-01 03:03:22,266 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: basic-attention-token
+2022-03-01 03:03:22,266 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: basic-attention-token
+2022-03-01 03:03:25,924 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ecomi
+2022-03-01 03:03:25,924 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ecomi
+2022-03-01 03:03:29,458 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: loopring
+2022-03-01 03:03:29,458 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: loopring
+2022-03-01 03:03:32,997 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: dash
+2022-03-01 03:03:32,997 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: dash
+2022-03-01 03:03:36,676 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: amp
+2022-03-01 03:03:36,676 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: amp
+2022-03-01 03:03:40,236 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: arweave
+2022-03-01 03:03:40,236 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: arweave
+2022-03-01 03:03:43,878 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: convex-finance
+2022-03-01 03:03:43,878 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: convex-finance
+2022-03-01 03:03:47,489 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: nem
+2022-03-01 03:03:47,489 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: nem
+2022-03-01 03:03:51,161 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: theta-fuel
+2022-03-01 03:03:51,161 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: theta-fuel
+2022-03-01 03:03:54,501 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: pax-dollar. Finding new coin.
+2022-03-01 03:03:54,829 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: oasis-network. Finding new coin.
+2022-03-01 03:03:55,391 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: anchor-protocol
+2022-03-01 03:03:55,391 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: anchor-protocol
+2022-03-01 03:03:59,174 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: decred
+2022-03-01 03:03:59,174 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: decred
+2022-03-01 03:04:02,790 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: symbol
+2022-03-01 03:04:02,790 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: symbol
+2022-03-01 03:04:06,443 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: mina-protocol
+2022-03-01 03:04:06,443 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: mina-protocol
+2022-03-01 03:04:10,005 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bora
+2022-03-01 03:04:10,005 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bora
+2022-03-01 03:04:13,567 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: compound
+2022-03-01 03:04:13,567 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: compound
+2022-03-01 03:04:17,105 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: holo
+2022-03-01 03:04:17,105 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: holo
+2022-03-01 03:04:20,642 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitkub-coin
+2022-03-01 03:04:20,642 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitkub-coin
+2022-03-01 03:04:23,995 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: yearn.finance. Finding new coin.
+2022-03-01 03:04:24,611 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: iotex
+2022-03-01 03:04:24,611 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: iotex
+2022-03-01 03:04:28,298 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: nexus-mutual
+2022-03-01 03:04:28,298 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: nexus-mutual
+2022-03-01 03:04:31,836 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitdao
+2022-03-01 03:04:31,836 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitdao
+2022-03-01 03:04:35,405 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: liquity-usd
+2022-03-01 03:04:35,405 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: liquity-usd
+2022-03-01 03:04:39,155 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: marinade-staked-sol
+2022-03-01 03:04:39,155 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: marinade-staked-sol
+2022-03-01 03:04:42,780 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: wemix-token
+2022-03-01 03:04:42,780 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: wemix-token
+2022-03-01 03:04:46,411 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: qtum
+2022-03-01 03:04:46,411 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: qtum
+2022-03-01 03:04:49,719 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: xinfin-network. Finding new coin.
+2022-03-01 03:04:50,297 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ravencoin
+2022-03-01 03:04:50,297 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ravencoin
+2022-03-01 03:04:53,828 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: gnosis
+2022-03-01 03:04:53,828 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: gnosis
+2022-03-01 03:04:57,381 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ruby-currency
+2022-03-01 03:04:57,381 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ruby-currency
+2022-03-01 03:05:00,939 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: renbtc
+2022-03-01 03:05:00,939 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: renbtc
+2022-03-01 03:05:04,493 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bancor-network-token
+2022-03-01 03:05:04,493 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bancor-network-token
+2022-03-01 03:05:07,735 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: 1inch-network-token. Finding new coin.
+2022-03-01 03:05:08,002 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: ankr-network. Finding new coin.
+2022-03-01 03:05:08,564 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: wax
+2022-03-01 03:05:08,564 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: wax
+2022-03-01 03:05:11,836 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: omg-network. Finding new coin.
+2022-03-01 03:05:12,399 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: bitcoin-gold
+2022-03-01 03:05:12,399 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: bitcoin-gold
+2022-03-01 03:05:15,659 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: rally. Finding new coin.
+2022-03-01 03:05:16,222 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: livepeer
+2022-03-01 03:05:16,222 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: livepeer
+2022-03-01 03:05:19,781 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: render-token
+2022-03-01 03:05:19,781 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: render-token
+2022-03-01 03:05:23,393 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: zilliqa
+2022-03-01 03:05:23,393 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: zilliqa
+2022-03-01 03:05:27,018 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: uma
+2022-03-01 03:05:27,018 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: uma
+2022-03-01 03:05:30,579 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: velas
+2022-03-01 03:05:30,579 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: velas
+2022-03-01 03:05:34,251 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: kava
+2022-03-01 03:05:34,251 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: kava
+2022-03-01 03:05:37,797 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: gatetoken
+2022-03-01 03:05:37,797 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: gatetoken
+2022-03-01 03:05:41,565 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: pax-gold
+2022-03-01 03:05:41,565 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: pax-gold
+2022-03-01 03:05:45,165 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: swissborg
+2022-03-01 03:05:45,165 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: swissborg
+2022-03-01 03:05:48,745 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: pocket-network
+2022-03-01 03:05:48,745 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: pocket-network
+2022-03-01 03:05:52,277 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: audius
+2022-03-01 03:05:52,277 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: audius
+2022-03-01 03:05:55,517 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: kyber-network-crystal-legacy. Finding new coin.
+2022-03-01 03:05:56,093 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: icon
+2022-03-01 03:05:56,093 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: icon
+2022-03-01 03:05:59,646 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: voyager-token
+2022-03-01 03:05:59,646 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: voyager-token
+2022-03-01 03:06:03,198 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: ontology
+2022-03-01 03:06:03,198 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: ontology
+2022-03-01 03:06:06,438 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: neutrino-usd. Finding new coin.
+2022-03-01 03:06:07,032 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: apenft
+2022-03-01 03:06:07,032 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: apenft
+2022-03-01 03:06:10,710 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: 0x
+2022-03-01 03:06:10,710 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: 0x
+2022-03-01 03:06:14,484 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: siacoin
+2022-03-01 03:06:14,484 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: siacoin
+2022-03-01 03:06:17,855 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: synthetix. Finding new coin.
+2022-03-01 03:06:18,465 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: moonbeam
+2022-03-01 03:06:18,465 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: moonbeam
+2022-03-01 03:06:22,034 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: iostoken
+2022-03-01 03:06:22,034 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: iostoken
+2022-03-01 03:06:25,689 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: woo-network
+2022-03-01 03:06:25,689 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: woo-network
+2022-03-01 03:06:29,267 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: golem
+2022-03-01 03:06:29,267 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: golem
+2022-03-01 03:06:32,821 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: dogelon-mars
+2022-03-01 03:06:32,821 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: dogelon-mars
+2022-03-01 03:06:36,379 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: polymath
+2022-03-01 03:06:36,379 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: polymath
+2022-03-01 03:06:39,917 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: sushi
+2022-03-01 03:06:39,917 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: sushi
+2022-03-01 03:06:43,167 | cryptocurrency_data_ingestion | WARNING | Invalid slug obtained from API with coin name: kyber-network-crystal. Finding new coin.
+2022-03-01 03:06:43,932 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: skale
+2022-03-01 03:06:43,932 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: skale
+2022-03-01 03:06:47,564 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: fei-usd
+2022-03-01 03:06:47,564 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: fei-usd
+2022-03-01 03:06:51,116 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: storj
+2022-03-01 03:06:51,116 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: storj
+2022-03-01 03:06:54,663 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: nucypher
+2022-03-01 03:06:54,663 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: nucypher
+2022-03-01 03:06:58,217 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: mixin
+2022-03-01 03:06:58,217 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: mixin
+2022-03-01 03:07:01,773 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: keep-network
+2022-03-01 03:07:01,773 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: keep-network
+2022-03-01 03:07:05,311 | cryptocurrency_data_ingestion | INFO | SUCCESS: Data aquired for: syscoin
+2022-03-01 03:07:05,311 | cryptocurrency_data_ingestion | INFO | SUCCESS: Description aquired for: syscoin
+2022-03-01 03:07:08,316 | cryptocurrency_data_ingestion | INFO | Data for 150 coins has been obtained.
+2022-03-01 03:07:08,316 | cryptocurrency_data_ingestion | INFO | SUCCESS: All Coin data descriptions aquired.
+2022-03-01 03:07:08,316 | cryptocurrency_data_ingestion | INFO | Notebook ending.
