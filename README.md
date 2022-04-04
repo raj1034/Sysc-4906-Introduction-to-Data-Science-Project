@@ -17,6 +17,9 @@ This code has been written to be platform independent, using python libraries to
 
 Required libraries are installed at the notbook level through the pip command.
 
+Raw and cleaned datasets link: https://drive.google.com/drive/folders/1SLigt-jZo5h5-pRbJFqRqJo3vxzbNFLF?usp=sharing
+Note: preferred to view data directly in this GitHub repo
+
 Project Organization
 ------------
 
